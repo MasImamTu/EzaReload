@@ -1,44 +1,5 @@
 
 {
-  "name": "EzaReload.com",
-  "short_name": "EZA RELOAD",
-  "start_url": "https://www.ezareload.com/",
-  "display": "standalone",
-  "background_color": "#fafafa",
-  "theme_color": "#ff0000",
-  "description": "Animovi.com tempat untuk nonton anime, dorama, drakor, movie online subtitle Indonesia yang dapat diakses dari smartphone, laptop, dan PC.",
-  "icons": [{
-    "src": "https://2.bp.blogspot.com/-V1lvCVp5w80/Xkj4Kd5DmPI/AAAAAAAAPYY/isptJfxEsvYXSbZU4yejwWNvmWBJ7iVTgCNcBGAsYHQ/s48/20200216_150104.png",
-    "sizes": "48x48",
-    "type": "image/png"
-  }, {
-    "src": "https://2.bp.blogspot.com/-V1lvCVp5w80/Xkj4Kd5DmPI/AAAAAAAAPYY/isptJfxEsvYXSbZU4yejwWNvmWBJ7iVTgCNcBGAsYHQ/s72/20200216_150104.png",
-    "sizes": "72x72",
-    "type": "image/png"
-  }, {
-    "src": "https://2.bp.blogspot.com/-V1lvCVp5w80/Xkj4Kd5DmPI/AAAAAAAAPYY/isptJfxEsvYXSbZU4yejwWNvmWBJ7iVTgCNcBGAsYHQ/s96/20200216_150104.png",
-    "sizes": "96x96",
-    "type": "image/png"
-  }, {
-    "src": "https://2.bp.blogspot.com/-V1lvCVp5w80/Xkj4Kd5DmPI/AAAAAAAAPYY/isptJfxEsvYXSbZU4yejwWNvmWBJ7iVTgCNcBGAsYHQ/s96/20200216_150104.png",
-    "sizes": "144x144",
-    "type": "image/png"
-  }, {
-    "src": "https://2.bp.blogspot.com/-V1lvCVp5w80/Xkj4Kd5DmPI/AAAAAAAAPYY/isptJfxEsvYXSbZU4yejwWNvmWBJ7iVTgCNcBGAsYHQ/s168/20200216_150104.png",
-    "sizes": "168x168",
-    "type": "image/png"
-  }, {
-    "src": "https://2.bp.blogspot.com/-V1lvCVp5w80/Xkj4Kd5DmPI/AAAAAAAAPYY/isptJfxEsvYXSbZU4yejwWNvmWBJ7iVTgCNcBGAsYHQ/s192/20200216_150104.png",
-    "sizes": "192x192",
-    "type": "image/png"
-  }, {
-    "src": "https://2.bp.blogspot.com/-V1lvCVp5w80/Xkj4Kd5DmPI/AAAAAAAAPYY/isptJfxEsvYXSbZU4yejwWNvmWBJ7iVTgCNcBGAsYHQ/s512/20200216_150104.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }]
-}
-
-{
   "name": "EZARELOAD.COM",
   "short_name": "EZA RELOAD",
   "start_url": "https://www.ezareload.com/",
